@@ -1,2 +1,2 @@
 # Panou-fotovoltaic
-rotire pozitia soarelui
+Rotire dupa pozitia soarelui
